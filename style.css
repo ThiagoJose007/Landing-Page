@@ -1,13 +1,16 @@
 .topo{
     height: 34px;
     background-color: #F8F8F8;
-    padding-right: 10%;
+    padding-right: 5%;
+    text-align: center;
 }
 .icone-profile{
     width: 15px;
     height: 15px;
 }
-
+.navbar-brand{
+    padding-left: 5%;
+}
 .acessar{
     font-family: 'Signika Negative';
     font-weight: bold;
@@ -25,4 +28,19 @@ nav li{
     font-family: 'Signika Negative';
     font-weight: bold;
     font-size: 16px;
+    color: #3C3C3B;
+}
+.botao-agendar{
+    border-radius: 26px;
+    height: 46px;
+    width: 220px;
+    background-color: #63D4FC;
+    font-family: 'Signika Negative';
+    font-weight: bold;
+    font-size: 16px;
+    border: 0px;
+}
+.msg-contato{
+    height: 336px;
+    background-color: #63D4FC;
 }
