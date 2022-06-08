@@ -43,4 +43,29 @@ nav li{
 .msg-contato{
     height: 336px;
     background-color: #63D4FC;
+    text-align: center;
+    padding-top: 85px;
+}
+.titulo-contato{
+    font-family: 'Signika Negative';
+    font-size: 34px;
+    font-weight: bold;
+
+}
+.texto-contato{
+    font-family:'Open Sans';
+    font-size: 16px;
+    margin-bottom: 17px;
+}
+.botao-contato{
+    border-radius: 26px;
+    height: 46px;
+    width: 286px;
+    background-color: #345D9D;
+    font-family: 'Signika Negative';
+    font-weight: bold;
+    font-size: 16px;
+    border: 0px;
+    color: #FFFFFF;
+    margin-left: 34px;
 }
