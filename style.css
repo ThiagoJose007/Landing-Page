@@ -8,6 +8,14 @@
     height: 15px;
 }
 
-.Acessar{
-    
+.acessar{
+    font-family: 'Signika Negative';
+}
+.navbar{
+    background-color: #FFFFFF;
+    height: 105px;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 40px;
 }
