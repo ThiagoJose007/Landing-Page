@@ -69,3 +69,17 @@ nav li{
     color: #FFFFFF;
     margin-left: 34px;
 }
+.titulo-formulario{
+    font-family: 'Signika Negative Light';
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.formulario{
+    width: 463px;
+    height: 858px;
+    margin-top: 50px;
+    margin-bottom: 90px;
+    margin-left: 10%;
+}
