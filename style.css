@@ -118,10 +118,6 @@ a.politica{
 }
 #contact-area{
     background-color: #345D9D;
-    height: 280px;
-}
-.logo-branca{
-    margin-top: 40px;
 }
 .text-footer{
     margin: 20px 0 20px 0;
@@ -131,4 +127,20 @@ a.politica{
 }
 .icone{
     margin-right: 15px;
+}
+.text-uppercase{
+    font-family: 'Signika Negative';
+    font-weight: bold;
+    font-size: 14px;
+}
+.text{
+    font-family:'Open Sans';
+    font-weight: normal ;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.text-copyright{
+    font-family: 'Museo Sans, 500';
+    color: #FFFFFF;
+    font-size: 10px;
 }
