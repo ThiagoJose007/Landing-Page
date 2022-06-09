@@ -4,6 +4,9 @@
     padding-right: 5%;
     text-align: center;
 }
+a.acessar{
+    color: #345D9D;
+}
 .icone-profile{
     width: 15px;
     height: 15px;
@@ -69,17 +72,34 @@ nav li{
     color: #FFFFFF;
     margin-left: 34px;
 }
-.titulo-formulario{
-    font-family: 'Signika Negative Light';
+.title-form{
+    font-family: 'Signika Negative';
     font-size: 34px;
     font-weight: bold;
     text-align: center;
 }
-
-.formulario{
-    width: 463px;
-    height: 858px;
-    margin-top: 50px;
-    margin-bottom: 90px;
-    margin-left: 10%;
+.text-form{
+    font-family:'Open Sans';
+    font-size: 16px;
+    text-align: center;
+}
+.bg-white{
+    border-color: #D9D9D9;
+}
+.checkbox{
+    font-family:'Open Sans';
+    font-size: 12px;
+    color: #B4B4B4;
+}
+a.politica{
+    color: #B4B4B4;
+}
+.button-form{
+    border-radius: 26px;
+    height: 60px;
+    background-color: #63D4FC;
+    font-family: 'Signika Negative';
+    font-weight: bold;
+    font-size: 19px;
+    border: 0px;
 }
