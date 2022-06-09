@@ -1,6 +1,9 @@
 body{
     padding-top: 100px;
 }
+.linha{
+    border-bottom: 1px solid rgb(232, 232, 232);
+}
 .topo{
     background-color: #F8F8F8;
     padding-right: 5%;
