@@ -116,3 +116,19 @@ a.politica{
 .form{
     margin: 0 10% 0 10%;
 }
+#contact-area{
+    background-color: #345D9D;
+    height: 280px;
+}
+.logo-branca{
+    margin-top: 40px;
+}
+.text-footer{
+    margin: 20px 0 20px 0;
+    color: #FFFFFF;
+    font-family:'Open Sans';
+    font-size: 14px;
+}
+.icone{
+    margin-right: 15px;
+}
