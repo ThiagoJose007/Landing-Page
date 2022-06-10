@@ -11,6 +11,10 @@ body{
 }
 a.acessar{
     color: #345D9D;
+    text-decoration: none;
+}
+.acessar:hover{
+    text-decoration: underline;
 }
 .icone-profile{
     width: 15px;
@@ -38,6 +42,9 @@ nav li{
     font-size: 16px;
     color: #3C3C3B;
 }
+.nav-link:hover{
+    color: #345D9D;
+}
 .botao-agendar{
     border-radius: 26px;
     height: 46px;
@@ -47,6 +54,10 @@ nav li{
     font-weight: bold;
     font-size: 16px;
     border: 0px;
+}
+.botao-agendar:hover{
+    background-color: #FFFFFF;
+    border: 1px solid #63D4FC;
 }
 .msg-contato{
     height: 336px;
@@ -77,6 +88,12 @@ nav li{
     color: #FFFFFF;
     margin-left: 34px;
 }
+.botao-contato:hover{
+    color: black;
+    background-color: #FFFFFF;
+    border: 1px solid black;
+}
+
 .title-form{
     font-family: 'Signika Negative';
     font-size: 34px;
@@ -108,6 +125,11 @@ a.politica{
     font-size: 19px;
     border: 0px;
 }
+.button-form:hover{
+    border: 1px solid#63D4FC;
+    background-color: #FFFFFF;
+    color: #3C3C3B;
+}
 .button-vaga{
     height: 46px;
     background-color: #345D9D;
@@ -118,6 +140,12 @@ a.politica{
     border: 0px;
     border-radius: 26px;
 }
+.button-vaga:hover{
+    color: black;
+    background-color: #FFFFFF;
+    border: 1px solid black;
+}
+
 .form{
     margin: 0 10% 0 10%;
 }
@@ -148,4 +176,10 @@ a.politica{
     font-family: 'Museo Sans, 500';
     color: #FFFFFF;
     font-size: 10px;
+}
+.text-reset{
+    text-decoration: none;
+}
+.text-reset:hover{
+    text-decoration: underline;
 }
